@@ -1,4 +1,4 @@
-package ca.bcit.comp1510.lab08;
+package ca;
 
 /**
  * Drives the Games class.
