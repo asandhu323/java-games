@@ -1,4 +1,4 @@
-package ca.bcit.comp1510.lab08;
+package ca;
 
 import java.util.Scanner;
 import java.util.Random;
